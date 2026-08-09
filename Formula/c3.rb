@@ -1,19 +1,19 @@
 class C3 < Formula
   desc "Code Creative Center — harness/loop engineering for AI software work"
   homepage "https://github.com/sequencestream/c3"
-  version "0.13.3"
+  version "0.14.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/sequencestream/c3/releases/download/v0.13.3/c3-v0.13.3-macos-arm64.tar.gz"
-      sha256 "d6ba1d3304ef91238eac2ab879a92f82aa6d6fde13e99838375694785f9be4d1"
+      url "https://github.com/sequencestream/c3/releases/download/v0.14.0/c3-v0.14.0-macos-arm64.tar.gz"
+      sha256 "1fb1ac07845e57131e5c85988b4df92ce7187bbd82f9ec0924be4d711c3443cd"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/sequencestream/c3/releases/download/v0.13.3/c3-v0.13.3-linux-x64.tar.gz"
-      sha256 "811f171cc2aa491dc3e00efc1a5d207226bda11d7556d8020614bf0e725029f5"
+      url "https://github.com/sequencestream/c3/releases/download/v0.14.0/c3-v0.14.0-linux-x64.tar.gz"
+      sha256 "031eaeed3c696bdb8d2779f2107e6666ac9f83db274add14fe5b272be26ac15c"
     end
   end
 
